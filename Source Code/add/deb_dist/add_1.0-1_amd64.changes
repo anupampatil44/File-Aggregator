@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 29 May 2022 13:26:31 +0530
+Source: add
+Binary: python3-add
+Architecture: all
+Version: 1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: RajasxPuranikxAnupam <anupampatil44@gmail.com>
+Changed-By: RajasxPuranikxAnupam <anupampatil44@gmail.com>
+Description:
+ python3-add - UNKNOWN
+Changes:
+ add (1.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.8.5
+Checksums-Sha1:
+ 949abff1d701a23e85c70328102ec25ce73cb2b8 6029 add_1.0-1_amd64.buildinfo
+ 21226a74a4ea568f62fcc32eebcdbe2be0107794 2716 python3-add_1.0-1_all.deb
+Checksums-Sha256:
+ 8e8c301af1dd7b27d3931f68ad268f0d1adcbd2e7e7da650704480cfc190d45e 6029 add_1.0-1_amd64.buildinfo
+ fbc560b067bf43716c31da3fae76658b0a55b9929913e9917f5c56bd6f5026f2 2716 python3-add_1.0-1_all.deb
+Files:
+ bf8d5c7f1e283e5d6bc957e35a965133 6029 python optional add_1.0-1_amd64.buildinfo
+ 044bd9ac61648d589314bf65c2214288 2716 python optional python3-add_1.0-1_all.deb

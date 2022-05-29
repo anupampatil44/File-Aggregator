@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 29 May 2022 13:30:14 +0530
+Source: list
+Binary: python3-list
+Architecture: all
+Version: 1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: RajasxPuranikxAnupam <anupampatil44@gmail.com>
+Changed-By: RajasxPuranikxAnupam <anupampatil44@gmail.com>
+Description:
+ python3-list - UNKNOWN
+Changes:
+ list (1.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.8.5
+Checksums-Sha1:
+ a6297a367cbe30315cd16e4af9dc85cd68f62e97 6034 list_1.0-1_amd64.buildinfo
+ 309d7ed900eed629e839a1f17b5f91c57eef7cc3 2564 python3-list_1.0-1_all.deb
+Checksums-Sha256:
+ d8a9cb6b8ac8d653edc490d125b618ba29242d101a9c84dd8baefc038137fc7e 6034 list_1.0-1_amd64.buildinfo
+ b31b9b602c2c628ce271a6d008554c7752bfeccf552f292a10352a7fecc50416 2564 python3-list_1.0-1_all.deb
+Files:
+ d2dc3c232ec8e84b4cb64d0aa35b903d 6034 python optional list_1.0-1_amd64.buildinfo
+ b137e06bd47df6bcc8006d2f1f7a4d57 2564 python optional python3-list_1.0-1_all.deb

@@ -1,0 +1,3 @@
+[console_scripts]
+copy_util = copy_util.copy_util:main
+

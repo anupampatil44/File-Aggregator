@@ -1,0 +1,3 @@
+[console_scripts]
+cut_util = cut_util.cut_util:main
+

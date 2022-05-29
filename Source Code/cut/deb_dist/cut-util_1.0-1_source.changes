@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 29 May 2022 13:32:10 +0530
+Source: cut-util
+Architecture: source
+Version: 1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: RajasxPuranikxAnupam <anupampatil44@gmail.com>
+Changed-By: RajasxPuranikxAnupam <anupampatil44@gmail.com>
+Changes:
+ cut-util (1.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.8.5
+Checksums-Sha1:
+ 0b2dae8426957c0b8241d179e7446b78436c8bda 830 cut-util_1.0-1.dsc
+ a693506b2569cf7656e55447ffdea280a76e8a98 8210 cut-util_1.0.orig.tar.gz
+ 86fa5fbc58e58d8917c2179386f759cd6f19a534 848 cut-util_1.0-1.debian.tar.xz
+ e1a41b247a2c5646dedd6122a4166efd4964cf1d 6018 cut-util_1.0-1_source.buildinfo
+Checksums-Sha256:
+ 1e45ae048dd5212607e6513c45524078f49b3e4a80050b4786f29c31b98e1d7c 830 cut-util_1.0-1.dsc
+ 6e87e8be763d7649f6da4d012e6134fd40bb8514c8f2abb58a412749020ca3d1 8210 cut-util_1.0.orig.tar.gz
+ 0bf31a928ad0eefd6c5f44628e299f061ceb5de42dee2250669b47133870f96b 848 cut-util_1.0-1.debian.tar.xz
+ f0507a424990ca5242bd565c10b668784584ac409eeec9c066c2df6f3903371e 6018 cut-util_1.0-1_source.buildinfo
+Files:
+ c58d0d39b64e9cde5794504548fa4335 830 python optional cut-util_1.0-1.dsc
+ 933b929c6e049a44c6a9105bb8af71a6 8210 python optional cut-util_1.0.orig.tar.gz
+ 2190493218416df5559a3fb2d1843379 848 python optional cut-util_1.0-1.debian.tar.xz
+ e98a2c09a81bacc214a14eb25c027015 6018 python optional cut-util_1.0-1_source.buildinfo

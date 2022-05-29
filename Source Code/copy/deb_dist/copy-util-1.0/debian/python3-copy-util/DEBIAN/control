@@ -1,0 +1,10 @@
+Package: python3-copy-util
+Source: copy-util
+Version: 1.0-1
+Architecture: all
+Maintainer: RajasxPuranikxAnupam <anupampatil44@gmail.com>
+Installed-Size: 22
+Depends: python3:any
+Section: python
+Priority: optional
+Description: UNKNOWN

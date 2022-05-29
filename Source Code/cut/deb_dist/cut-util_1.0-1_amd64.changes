@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 29 May 2022 13:32:10 +0530
+Source: cut-util
+Binary: python3-cut-util
+Architecture: all
+Version: 1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: RajasxPuranikxAnupam <anupampatil44@gmail.com>
+Changed-By: RajasxPuranikxAnupam <anupampatil44@gmail.com>
+Description:
+ python3-cut-util - UNKNOWN
+Changes:
+ cut-util (1.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.8.5
+Checksums-Sha1:
+ 205b6effffbacfc6f9ae1d011c0693daad06dcb0 6054 cut-util_1.0-1_amd64.buildinfo
+ 5afad9a18745e949119c600aa139ac6d92304d90 2708 python3-cut-util_1.0-1_all.deb
+Checksums-Sha256:
+ 4107c145568cfa78e47269773653472c2323aca1f6a850573a121ab239b17bfe 6054 cut-util_1.0-1_amd64.buildinfo
+ de5bb186c7f4b03f706a6592afc08a1264a271eb98e94e6a891d328101f4aaed 2708 python3-cut-util_1.0-1_all.deb
+Files:
+ be494e25011f953ee49867ee92b18d1d 6054 python optional cut-util_1.0-1_amd64.buildinfo
+ c059b8ccdd336d3a97d1176937005508 2708 python optional python3-cut-util_1.0-1_all.deb

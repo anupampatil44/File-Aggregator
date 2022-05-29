@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 29 May 2022 13:30:14 +0530
+Source: list
+Architecture: source
+Version: 1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: RajasxPuranikxAnupam <anupampatil44@gmail.com>
+Changed-By: RajasxPuranikxAnupam <anupampatil44@gmail.com>
+Changes:
+ list (1.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.8.5
+Checksums-Sha1:
+ 89ea84a0029d9429ca1b9055bb73d7853f6688ce 794 list_1.0-1.dsc
+ e9864687c35492a6bfe32b00193b190d83a3ae06 8038 list_1.0.orig.tar.gz
+ d1f505e3293b732219d823c50e42a34b95c69d94 840 list_1.0-1.debian.tar.xz
+ 80d176b5a554108bd836ba5eb70252f773dfb45b 5998 list_1.0-1_source.buildinfo
+Checksums-Sha256:
+ 93d0fd6a8f74591c2a3dc9b6bee251919afc03b1539903fcd8ec64593424ef70 794 list_1.0-1.dsc
+ 8382072612bafa58cb9c2f67b89c6415f33ca8b516dcd07200c49239878d60c3 8038 list_1.0.orig.tar.gz
+ 72dacee77489cc6b0571e3ee032a0b3e0df1d6f045ff749fd67f3433b60837f5 840 list_1.0-1.debian.tar.xz
+ d74f49e8e9e0bad28d4eb6ddda3aac3f68092a987ed957f241367db66931ef43 5998 list_1.0-1_source.buildinfo
+Files:
+ 0731ed2b199cf23a5d1a42c2098857f8 794 python optional list_1.0-1.dsc
+ 943d06706b8556443a5d0cb35244748e 8038 python optional list_1.0.orig.tar.gz
+ 2292fb4bfe2b5e2b4d1a9742b40a7852 840 python optional list_1.0-1.debian.tar.xz
+ 871295eb1fe62f3ebce345d95a453702 5998 python optional list_1.0-1_source.buildinfo

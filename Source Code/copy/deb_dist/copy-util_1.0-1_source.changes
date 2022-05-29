@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 29 May 2022 13:28:52 +0530
+Source: copy-util
+Architecture: source
+Version: 1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: RajasxPuranikxAnupam <anupampatil44@gmail.com>
+Changed-By: RajasxPuranikxAnupam <anupampatil44@gmail.com>
+Changes:
+ copy-util (1.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.8.5
+Checksums-Sha1:
+ 2e0407b9bfa4e10b789c1f7821f3ad8be63e25ed 839 copy-util_1.0-1.dsc
+ eb1a7ecea5f9127ea2bbc68d00fbfe2d2864c9b4 8446 copy-util_1.0.orig.tar.gz
+ a10b556486ca54becddc57f25c919cfe6f2da3e6 848 copy-util_1.0-1.debian.tar.xz
+ 7daf0c66c7926dec45b6d52b6c1b8013820f717f 6023 copy-util_1.0-1_source.buildinfo
+Checksums-Sha256:
+ c29ae89618d2a2303376dab6ecff561f91018ef4b46989288fe0ac1958588ad0 839 copy-util_1.0-1.dsc
+ 9bbea010f8f8f337cee265f40952ba274d29b264f600e90653f86303f9cb047a 8446 copy-util_1.0.orig.tar.gz
+ 0deeba789edbb0fb0965cf42d6f0d798484fef70479d56e8196c9b1c3612634c 848 copy-util_1.0-1.debian.tar.xz
+ e1bf66ff63d64db6c4c4ddfb603d949d7aade344d41b3183739298d434726516 6023 copy-util_1.0-1_source.buildinfo
+Files:
+ 7fe7228cf76e89f02bcf94e6cff46a5b 839 python optional copy-util_1.0-1.dsc
+ 510b90f54c1c67cf1356dcb2e04654cd 8446 python optional copy-util_1.0.orig.tar.gz
+ 2d861a9a54db88cd1b7e522f1340c0b9 848 python optional copy-util_1.0-1.debian.tar.xz
+ 963801b44213d4c775a7140854829091 6023 python optional copy-util_1.0-1_source.buildinfo

@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+copy/copy_util.py
+copy_util.egg-info/PKG-INFO
+copy_util.egg-info/SOURCES.txt
+copy_util.egg-info/dependency_links.txt
+copy_util.egg-info/entry_points.txt
+copy_util.egg-info/top_level.txt

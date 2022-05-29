@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 29 May 2022 13:28:52 +0530
+Source: copy-util
+Binary: python3-copy-util
+Architecture: all
+Version: 1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: RajasxPuranikxAnupam <anupampatil44@gmail.com>
+Changed-By: RajasxPuranikxAnupam <anupampatil44@gmail.com>
+Description:
+ python3-copy-util - UNKNOWN
+Changes:
+ copy-util (1.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.8.5
+Checksums-Sha1:
+ 8b23d62435e7cc85b6e9a9eb61297213cd7db427 6059 copy-util_1.0-1_amd64.buildinfo
+ 8c470361252c05c03ed7c504874835891333da67 2920 python3-copy-util_1.0-1_all.deb
+Checksums-Sha256:
+ 414c7a470e0612594ab18fb859d60e3d30fd24d5b53b63aa5dda4b9ea6cfc93a 6059 copy-util_1.0-1_amd64.buildinfo
+ fd5e33c9b5dd8bfa9e3d97bc33132dd3c7e98a1ab8399d744c120e6e9e18d247 2920 python3-copy-util_1.0-1_all.deb
+Files:
+ b7c9bb6c8c7b496052eadf5f49a09aec 6059 python optional copy-util_1.0-1_amd64.buildinfo
+ 109106006972098d1369ab6b242f4572 2920 python optional python3-copy-util_1.0-1_all.deb

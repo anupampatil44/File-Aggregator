@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 29 May 2022 13:26:31 +0530
+Source: add
+Architecture: source
+Version: 1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: RajasxPuranikxAnupam <anupampatil44@gmail.com>
+Changed-By: RajasxPuranikxAnupam <anupampatil44@gmail.com>
+Changes:
+ add (1.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.8.5
+Checksums-Sha1:
+ a1d7e22162a78c87d7d04465e05c608be0b3ec52 785 add_1.0-1.dsc
+ 6832f5d3d91225c550bd7b0dc1557afb216270a2 8225 add_1.0.orig.tar.gz
+ 04dcb577bc5a086ea0597927030d700c020f228b 832 add_1.0-1.debian.tar.xz
+ e6f2d002ce907c2e02d9c7f730583c0fff739bc8 5993 add_1.0-1_source.buildinfo
+Checksums-Sha256:
+ a854c4fac3461208cf0098a72a046c618aa363f2ebe180223d6f0f3293b86eae 785 add_1.0-1.dsc
+ 01d05ca5f0f2fcc3c0578059dc4cfae85f4685cdf4173943be905a44496718c9 8225 add_1.0.orig.tar.gz
+ 75a049e4f9a9aad8ac0425847891cd4a653bdf8f20c3052251e715e39ab8b3d8 832 add_1.0-1.debian.tar.xz
+ 2151fea29ebdcc4bb390e8b9a38d6e43e131ba0a9ccf5142323fd38fb317f8ac 5993 add_1.0-1_source.buildinfo
+Files:
+ 79ab9f5cbad70ea826576eec7af1ae4c 785 python optional add_1.0-1.dsc
+ 8fe11ec69fec9b0ba932fcd79539ee81 8225 python optional add_1.0.orig.tar.gz
+ cf010c1318ef9ef1c8866eb8da975025 832 python optional add_1.0-1.debian.tar.xz
+ cfb23209ec0b11a1b03ea8ff8886ac89 5993 python optional add_1.0-1_source.buildinfo

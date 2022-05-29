@@ -1,0 +1,10 @@
+Package: python3-cut-util
+Source: cut-util
+Version: 1.0-1
+Architecture: all
+Maintainer: RajasxPuranikxAnupam <anupampatil44@gmail.com>
+Installed-Size: 21
+Depends: python3:any
+Section: python
+Priority: optional
+Description: UNKNOWN

@@ -1,0 +1,3 @@
+[console_scripts]
+list = list.list:main
+
