@@ -27,4 +27,4 @@ Syntax: ```list```
 **Note**: Certain keywords such as ```cut``` and ```copy``` are reserved words hence require different naming conventions hence the different names.
 
 ## Sample File Handling Output:
-<img src= "/Output Screenshots/test_output.png" width=275 height=575></img>
+<img src= "/Output Screenshots/test_output.png"></img>
