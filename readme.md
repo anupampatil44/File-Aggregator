@@ -1,4 +1,3 @@
-# L3Cube Final Year Project Screening Task 1: Aggregate Me
 
 ## Goal:
 Create a simple file aggregator. It takes a list of files and clubs them into a single file while keeping track of individual files.
